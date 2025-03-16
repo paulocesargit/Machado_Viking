@@ -6,6 +6,7 @@
     <title>Machado Viking</title>
     <link rel="stylesheet" href="./Global.css" />
     <link rel="stylesheet" href="./styles/Home.css" />
+    <link rel="stylesheet" href="./styles/PopularModal.css" />
     <link
       rel="shortcut icon"
       href="./assets/Logo/machadovikinglogo.svg"
@@ -127,11 +128,21 @@
           <img src="./assets/Home/JINX.png" alt="Personagem" />
         </div>
       </section>
+      <div id="modal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <img id="modal-image" />
+          <h3 id="modal-name"></h3>
+          <p id="modal-preco"></p>
+          <p id="modal-parcelamento"></p>
+        </div>
+      </div>
     </main>
     <footer class="footer">
       <p class="footer-text">
         @2025 Todos os Direitos Reservados - Machado Viking
       </p>
     </footer>
+    <script src="./js/popular.js"></script>
   </body>
 </html>
