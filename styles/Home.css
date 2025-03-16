@@ -21,6 +21,7 @@
   border-radius: 5px;
   font-weight: bold;
   font-size: 14px;
+  display: inline;
 }
 .promo-big-text {
   font-size: 60px;
@@ -100,34 +101,34 @@
   gap: 15px;
 }
 
-.produto {
+.popular {
   width: 18%;
   text-align: center;
   transition: 0.3s;
 }
 
-.produto:hover {
+.popular:hover {
   transform: scale(1.05);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
-.produto-image {
+.popular-image {
   width: 100%;
   height: auto;
 }
 
-.produto-name {
+.popular-name {
   font-size: 1.1rem;
   font-weight: bold;
   margin-top: 10px;
 }
 
-.produto-preco {
+.popular-preco {
   font-size: 1rem;
   color: #333;
 }
 
-.produto-parcelamento {
+.popular-parcelamento {
   font-size: 0.9rem;
   color: #888;
 }
