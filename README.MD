@@ -60,7 +60,11 @@ MachadoViking/
         </a>
       </td>
     </tr>
-      <tr align=center>
+  </table>
+</div>
+ <div align=center>
+  <table style="width:100%">
+    <tr align=center>
       <th><strong>Matheus Felipe</strong></th>
     </tr>
     <tr align=center>
