@@ -48,32 +48,33 @@ MachadoViking/
 
 ---
 
-  <div>
-    <table style="width:100%">
-      <tr align="center">
-        <th><strong>Paulo Cesar</strong></th>
-      </tr>
-      <tr align="center">
-        <td>
-          <a href="https://github.com/paulocesargit">
-            <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149436023?v=4">
-          </a>
-        </td>
-      </tr>
-    </table>
-     <table style="width:100%">
-      <tr align="center">
-        <th><strong>Matheus Felipe</strong></th>
-      </tr>
-      <tr align="center">
-        <td>
-          <a href="https://github.com/Mateus-menezes20">
-            <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/188333189?v=4">
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+ <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/paulocesargit" >
+        <img src="https://avatars.githubusercontent.com/u/149436023?v=4" width="100px;" alt="Foto do Paulo Cesar"/><br>
+        <sub>
+          <b>Paulo Cesar</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mateus-menezes20" >
+        <img src="https://avatars.githubusercontent.com/u/188333189?v=4" width="100px;" alt="Foto de Matheus Felipe"/><br>
+        <sub>
+          <b>Matheus Felipe</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" >
+        <img src="#" width="100px;" alt="Foto de Luis Vilas"/><br>
+        <sub>
+          <b>Luis Vilas</b>
+        </sub>
+      </a>
+    </td>
+</table>
 
 ## Licença
 
