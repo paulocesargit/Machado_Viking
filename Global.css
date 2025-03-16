@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-image: url(./assets/Animes.png);
+  background-color: rgba(217, 78, 41, 0.9);
+  flex-wrap: wrap;
+}
+
+.logo {
+  margin-left: 50px;
+}
+
+.logo img {
+  height: 150px;
+  padding: 0%;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px 15px;
+  width: 100%;
+  max-width: 500px;
+  margin: 10px auto;
+  margin-left: 300px;
+}
+
+.search-bar input {
+  border: none;
+  outline: none;
+  flex: 1;
+  padding: 8px;
+}
+
+.search-bar button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.cart {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  margin-left: 75%;
+}
+
+.cart img {
+  height: 70px;
+}
+
+.cart-count {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  background-color: white;
+  color: black;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: black;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-text {
+  color: white;
+  font-size: 14px;
+  margin: 0;
+}
