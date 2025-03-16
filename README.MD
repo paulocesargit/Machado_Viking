@@ -55,8 +55,8 @@ MachadoViking/
     </tr>
     <tr align=center>
       <td>
-        <a href="https://github.com/shyoutarou">
-          <img width="200" height="180" style="border-radius: 50%;" src="https://github.com/paulocesargit">
+        <a href="https://github.com/paulocesargit">
+          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149436023?v=4">
         </a>
       </td>
     </tr>
@@ -69,8 +69,8 @@ MachadoViking/
     </tr>
     <tr align=center>
       <td>
-        <a href="https://github.com/shyoutarou">
-          <img width="200" height="180" style="border-radius: 50%;" src="https://github.com/Mateus-menezes20">
+        <a href="https://github.com/Mateus-menezes20">
+          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/188333189?v=4">
         </a>
       </td>
     </tr>
