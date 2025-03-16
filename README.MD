@@ -44,7 +44,7 @@ MachadoViking/
 2. Acesse o diretório do projeto: `cd machadoviking`
 3. Abra o arquivo `index.html` em seu navegador
 
-## Autores e reconhecimento
+## Autores
 
 ---
 
