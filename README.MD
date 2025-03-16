@@ -4,12 +4,6 @@
 
 O **Machado Viking** é uma loja virtual focada em produtos geek, desenvolvida com as tecnologias fundamentais da web: **HTML**, **CSS** e **JavaScript**. O objetivo do projeto é oferecer uma experiência de navegação fluida e intuitiva para os fãs da cultura geek, proporcionando acesso a uma ampla variedade de produtos temáticos.
 
-## Equipe de Desenvolvimento
-
-- Paulo Cesar
-- Matheus Felipe
-- Luis Vilas
-
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estruturação e marcação do conteúdo.
@@ -57,7 +51,7 @@ MachadoViking/
  <div align=center>
   <table style="width:100%">
     <tr align=center>
-      <th><strong>Eu</strong></th>
+      <th><strong>Paulo Cesar</strong></th>
     </tr>
     <tr align=center>
       <td>
@@ -65,7 +59,12 @@ MachadoViking/
           <img width="200" height="180" style="border-radius: 50%;" src="https://github.com/paulocesargit">
         </a>
       </td>
-        <td>
+    </tr>
+      <tr align=center>
+      <th><strong>Matheus Felipe</strong></th>
+    </tr>
+    <tr align=center>
+      <td>
         <a href="https://github.com/shyoutarou">
           <img width="200" height="180" style="border-radius: 50%;" src="https://github.com/Mateus-menezes20">
         </a>
