@@ -48,7 +48,6 @@ MachadoViking/
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px;">
   <div>
     <table style="width:100%">
       <tr align="center">
@@ -62,9 +61,7 @@ MachadoViking/
         </td>
       </tr>
     </table>
-  </div>
-  <div>
-    <table style="width:100%">
+     <table style="width:100%">
       <tr align="center">
         <th><strong>Matheus Felipe</strong></th>
       </tr>
@@ -77,7 +74,6 @@ MachadoViking/
       </tr>
     </table>
   </div>
-</div>
 
 ## Licença
 
