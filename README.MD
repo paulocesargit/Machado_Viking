@@ -67,8 +67,8 @@ MachadoViking/
       </a>
     </td>
     <td align="center">
-      <a href="#" >
-        <img src="#" width="100px;" alt="Foto de Luis Vilas"/><br>
+      <a href="https://github.com/Luisvilas" >
+        <img src="https://avatars.githubusercontent.com/u/170568543?v=4" width="100px;" alt="Foto de Luis Vilas"/><br>
         <sub>
           <b>Luis Vilas</b>
         </sub>
