@@ -48,33 +48,35 @@ MachadoViking/
 
 ---
 
- <div align=center>
-  <table style="width:100%">
-    <tr align=center>
-      <th><strong>Paulo Cesar</strong></th>
-    </tr>
-    <tr align=center>
-      <td>
-        <a href="https://github.com/paulocesargit">
-          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149436023?v=4">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
- <div align=center>
-  <table style="width:100%">
-    <tr align=center>
-      <th><strong>Matheus Felipe</strong></th>
-    </tr>
-    <tr align=center>
-      <td>
-        <a href="https://github.com/Mateus-menezes20">
-          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/188333189?v=4">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div>
+    <table style="width:100%">
+      <tr align="center">
+        <th><strong>Paulo Cesar</strong></th>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="https://github.com/paulocesargit">
+            <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149436023?v=4">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div>
+    <table style="width:100%">
+      <tr align="center">
+        <th><strong>Matheus Felipe</strong></th>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="https://github.com/Mateus-menezes20">
+            <img width="200" height="180" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/188333189?v=4">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ## Licença
