@@ -1,10 +1,10 @@
 const products = document.querySelectorAll(".popular");
-const modal = document.getElementById("modal");
-const modalImage = document.getElementById("modal-image");
-const modalName = document.getElementById("modal-name");
-const modalPreco = document.getElementById("modal-preco");
-const modalParcelamento = document.getElementById("modal-parcelamento");
-const closeModal = document.querySelector(".close");
+const modal = document.getElementById("popularmodal");
+const modalImage = document.getElementById("popularmodal-image");
+const modalName = document.getElementById("popularmodal-name");
+const modalPreco = document.getElementById("popularmodal-preco");
+const modalParcelamento = document.getElementById("popularmodal-parcelamento");
+const closeModal = document.querySelector(".popular-close");
 
 products.forEach((product) => {
   product.addEventListener("click", () => {
