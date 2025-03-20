@@ -217,7 +217,7 @@
   }
   .promo-cta-button {
     width: 60%;
-    margin: 0 auto; /* Centraliza o botão */
+    margin: 0 auto;
     display: block;
   }
   .promo-image-section {
@@ -233,7 +233,7 @@
   }
   .promo-cta-button {
     width: 80%;
-    margin: 0 auto; /* Centraliza o botão */
+    margin: 0 auto;
   }
   .promo-image-section img {
     width: 80%;
