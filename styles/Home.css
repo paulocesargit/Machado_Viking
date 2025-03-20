@@ -198,3 +198,94 @@
   z-index: 2;
   transform: translateX(-38px);
 }
+
+/* promoções */
+@media (max-width: 768px) {
+  .promo-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .promo-text-section {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  .promo-big-text,
+  .promo-title {
+    font-size: 36px;
+    margin: 10px 0;
+  }
+  .promo-cta-button {
+    width: 60%;
+    margin: 0 auto; /* Centraliza o botão */
+    display: block;
+  }
+  .promo-image-section {
+    width: 90%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .promo-big-text,
+  .promo-title {
+    font-size: 28px;
+  }
+  .promo-cta-button {
+    width: 80%;
+    margin: 0 auto; /* Centraliza o botão */
+  }
+  .promo-image-section img {
+    width: 80%;
+  }
+}
+
+/* populares */
+@media (max-width: 768px) {
+  .acessorios-products {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .popular {
+    width: 45%;
+  }
+}
+
+@media (max-width: 480px) {
+  .popular {
+    width: 100%;
+  }
+}
+
+/* Pagamento Facilitado */
+@media (max-width: 768px) {
+  .pagamento-section {
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    padding: 20px;
+  }
+  .pagamento-info {
+    width: 100%;
+    transform: translateX(0);
+    padding: 30px;
+    border-radius: 10px 10px 0 0;
+  }
+  .pagamento-imagem {
+    width: 100%;
+    min-height: 300px;
+    border-radius: 0 0 10px 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .pagamento-info {
+    padding: 20px;
+  }
+  .pagamento-info h2 {
+    font-size: 18px;
+  }
+  .pagamento-imagem {
+    min-height: 200px;
+  }
+}
