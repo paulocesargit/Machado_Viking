@@ -1,140 +1,138 @@
 /*banner*/
 
 .image_of_product {
-width: 1521px; /* Defina a largura desejada para o contêiner */
-height: 244px; /* Defina a altura desejada para o contêiner */
-overflow: hidden; /* Garante que a imagem não ultrapasse o contêiner */
-position: relative; /* Permite ajustes na posição da imagem */
+  width: 1521px;
+  height: 244px;
+  overflow: hidden;
+  position: relative;
 }
 
 .image_of_product img {
-width: 1650px; /* Faz a imagem ocupar toda a largura do contêiner */
-height: 100%; /* Mantém a proporção original */
-position: absolute; /* Permite movimentar a imagem */
-top: 0,5px; /* Move a imagem para baixo */
+  width: 1650px;
+  height: 100%;
+  position: absolute;
+  top: 0, 5px;
 }
-
 
 /*botoes_personalizados*/
 
 .botoes_personalizados {
-display: flex;
-gap: 60px; /* Espaço entre as imagens */
-justify-content: center; /* Centraliza as imagens */
-align-items: center;
-flex-wrap: wrap; /* Permite que as imagens quebrem linha caso necessário */
-background-color: white;
-opacity: 50%;
-padding: 20px 0;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: white;
+  opacity: 50%;
+  padding: 20px 0;
 }
 
 .botoes_personalizados img {
-border-radius: 10px; /* Arredonda as bordas */
-transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-cursor: pointer; /* Indica que o elemento é interativo */
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 .botoes_personalizados img:hover {
-transform: scale(1.1); /* Aumenta o tamanho ao passar o mouse */
-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona um leve sombreamento */
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Estilos individuais para cada imagem */
 .botoes_personalizados img:nth-child(1) {
-width: 283px;
-height: 137px;
+  width: 283px;
+  height: 137px;
 }
 
 .botoes_personalizados img:nth-child(2) {
-width: 283px;
-height: 137px;
+  width: 283px;
+  height: 137px;
 }
 
 .botoes_personalizados img:nth-child(3) {
-width: 283px;
-height: 137px;
+  width: 283px;
+  height: 137px;
 }
 
 .botoes_personalizados img:nth-child(4) {
-width: 283px;
-height: 137px;
+  width: 283px;
+  height: 137px;
 }
-
 
 /*img_produtos*/
 
 /*action figure*/
 
 .action_figure_container {
-    display: flex;
-    gap: 60px;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap; /* Impede que as imagens quebrem para a linha de baixo */
-    text-align: center;
-    width: 100%;
-    height: auto;
-    padding: 10px;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  padding: 10px;
 }
 
 .action_figure_products {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #f9f9f9;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    width: 200px;
-    flex-shrink: 0; /* Evita que os itens diminuam de tamanho */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  width: 200px;
+  flex-shrink: 0;
 }
 
 .action_figure_products:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
 .action_figure_image {
-    border-radius: 10px;
-    width: 160px;
-    height: 210px;
+  border-radius: 10px;
+  width: 160px;
+  height: 210px;
 }
 
 /* Camisas */
 
 .camisa_container {
-    display: flex;
-    gap: 60px;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap; /* Impede que as imagens quebrem para a linha de baixo */
-    text-align: center;
-    width: 100%;
-    height: auto;
-    padding: 10px;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  padding: 10px;
 }
 
 .camisa_products {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #f9f9f9;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    width: 200px;
-    flex-shrink: 0; /* Evita que os itens diminuam de tamanho */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  width: 200px;
+  flex-shrink: 0;
 }
 
 .camisa_products:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
 .camisa_image {
-    border-radius: 10px;
-    width: 160px;
-    height: 210px;
+  border-radius: 10px;
+  width: 160px;
+  height: 210px;
 }
