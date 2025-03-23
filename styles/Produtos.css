@@ -99,6 +99,8 @@
   height: 210px;
 }
 
+
+
 /* Camisas */
 
 .camisa_container {
@@ -135,4 +137,80 @@
   border-radius: 10px;
   width: 160px;
   height: 210px;
+}
+
+/* mangas*/
+
+.manga_container {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap; /* Impede que as imagens quebrem para a linha de baixo */
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.manga_products {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    width: 200px;
+    flex-shrink: 0; /* Evita que os itens diminuam de tamanho */
+}
+
+.manga_products:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.manga_image {
+    border-radius: 10px;
+    width: 160px;
+    height: 210px;
+}
+
+/* cosplay*/
+
+.cosplay_container {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap; /* Impede que as imagens quebrem para a linha de baixo */
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.cosplay_products {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    width: 200px;
+    flex-shrink: 0; /* Evita que os itens diminuam de tamanho */
+}
+
+.cosplay_products:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.cosplay_image {
+    border-radius: 10px;
+    width: 160px;
+    height: 210px;
 }
