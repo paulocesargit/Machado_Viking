@@ -61,12 +61,11 @@
 
 /*img_produtos*/
 
-<<<<<<< HEAD
 /* Estilo comum para todos os containers de produtos */
 .action_figures_container,
 .camisa_container,
 .manga_container,
-=======
+
 /*action figure*/
 
 .action_figure_container {
@@ -104,8 +103,6 @@
   width: 160px;
   height: 210px;
 }
-
-
 
 /* Camisas */
 
@@ -148,52 +145,51 @@
 /* mangas*/
 
 .manga_container {
-    display: flex;
-    gap: 60px;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap; /* Impede que as imagens quebrem para a linha de baixo */
-    text-align: center;
-    width: 100%;
-    height: auto;
-    padding: 10px;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap; /* Impede que as imagens quebrem para a linha de baixo */
+  text-align: center;
+  width: 100%;
+  height: auto;
+  padding: 10px;
 }
 
 .manga_products {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #f9f9f9;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    width: 200px;
-    flex-shrink: 0; /* Evita que os itens diminuam de tamanho */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  width: 200px;
+  flex-shrink: 0; /* Evita que os itens diminuam de tamanho */
 }
 
 .manga_products:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
 .manga_image {
-    border-radius: 10px;
-    width: 160px;
-    height: 210px;
+  border-radius: 10px;
+  width: 160px;
+  height: 210px;
 }
 
 /* cosplay*/
 
->>>>>>> 4a6ff18999f5eb201a17294be49539ed75c96e35
 .cosplay_container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 produtos por linha */
-    gap: 20px;
-    justify-content: center;
-    width: 100%;
-    padding: 20px;
-    box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 produtos por linha */
+  gap: 20px;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* Estilo para os produtos individuais */
@@ -201,17 +197,17 @@
 .camisa_container .camisa_products > div,
 .manga_container .camisa_products > div,
 .cosplay_container .camisa_products > div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #f9f9f9;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    width: 100%;
-    max-width: 250px;
-    margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
 }
 
 /* Efeito hover */
@@ -219,8 +215,8 @@
 .camisa_container .camisa_products > div:hover,
 .manga_container .camisa_products > div:hover,
 .cosplay_container .camisa_products > div:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
 /* Estilo para as imagens */
@@ -228,62 +224,79 @@
 .camisa_container .camisa_products img,
 .manga_container .camisa_products img,
 .cosplay_container .camisa_products img {
-    border-radius: 10px;
-    width: 100%;
-    height: 210px;
-    object-fit: cover;
+  border-radius: 10px;
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
 }
 
 /* Estilo para os textos */
 .camisa_name,
 .camisa_price,
 .camisa_installments {
-    margin: 5px 0;
-    width: 100%;
-    text-align: center;
+  margin: 5px 0;
+  width: 100%;
+  text-align: center;
 }
 
 .camisa_name {
-    margin-top: 10px;
-    font-size: 14px;
-    height: 40px;
-    overflow: hidden;
+  margin-top: 10px;
+  font-size: 14px;
+  height: 40px;
+  overflow: hidden;
 }
 
 .camisa_price {
-    font-weight: bold;
-    color: #333;
+  font-weight: bold;
+  color: #333;
 }
 
 .camisa_installments {
-    font-size: 12px;
-    color: #666;
+  font-size: 12px;
+  color: #666;
+}
+.botao-categoria {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.botao-categoria img {
+  width: 100px;
+  border-radius: 12px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.botao-categoria:hover img {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
 }
 
 /* Responsividade */
 @media (max-width: 1200px) {
-    .action_figures_container,
-    .camisa_container,
-    .manga_container,
-    .cosplay_container {
-        grid-template-columns: repeat(3, 1fr); /* 3 produtos por linha */
-    }
+  .action_figures_container,
+  .camisa_container,
+  .manga_container,
+  .cosplay_container {
+    grid-template-columns: repeat(3, 1fr); /* 3 produtos por linha */
+  }
 }
 
 @media (max-width: 900px) {
-    .action_figures_container,
-    .camisa_container,
-    .manga_container,
-    .cosplay_container {
-        grid-template-columns: repeat(2, 1fr); /* 2 produtos por linha */
-    }
+  .action_figures_container,
+  .camisa_container,
+  .manga_container,
+  .cosplay_container {
+    grid-template-columns: repeat(2, 1fr); /* 2 produtos por linha */
+  }
 }
 
 @media (max-width: 500px) {
-    .action_figures_container,
-    .camisa_container,
-    .manga_container,
-    .cosplay_container {
-        grid-template-columns: 1fr; /* 1 produto por linha */
-    }
+  .action_figures_container,
+  .camisa_container,
+  .manga_container,
+  .cosplay_container {
+    grid-template-columns: 1fr; /* 1 produto por linha */
+  }
 }

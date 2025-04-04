@@ -1,0 +1,396 @@
+{
+  "categoria": {
+    "camisas": [
+      {
+        "nome": "Camisa - Akatsuki",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/akatsuki.webp"
+      },
+      {
+        "nome": "Camisa - Animes",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/camisa-animes.jpg"
+      },
+      {
+        "nome": "Camisa - Controles",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/camisa-controles.jpg"
+      },
+      {
+        "nome": "Camisa - Hunter x Hunter",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/camisa-hunterxhunter.jpg"
+      },
+      {
+        "nome": "Camisa - Vaca",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/camisa-vaca.jpg"
+      },
+      {
+        "nome": "Camisa - 01",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/camisa01.jpg"
+      },
+      {
+        "nome": "Camisa - Kakashi",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/kakashi.webp"
+      },
+      {
+        "nome": "Camisa - Luffy",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/luffy.webp"
+      },
+      {
+        "nome": "Camisa - One Piece",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/one-piece.jpg"
+      },
+      {
+        "nome": "Camisa - Pacman",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/pacman.webp"
+      },
+      {
+        "nome": "Camisa - Sonic",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/sonic.webp"
+      },
+      {
+        "nome": "Camisa - Fogueira - Dark Souls",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/fogueira.png"
+      },
+      {
+        "nome": "Camisa - Caveira",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/cavera.png"
+      },
+      {
+        "nome": "Camisa - Dark Souls",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/darksouls.png"
+      },
+      {
+        "nome": "Camisa - Umbrella - Resident Evil",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/umbreula.png"
+      },
+      {
+        "nome": "Camisa - Bloodborne",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/Camisas/bloodborne.png"
+      }
+    ],
+    "Action": [
+      {
+        "name": "Action Figure - Hunter - Bloodborne",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/Bloodborne.jpg"
+      },
+      {
+        "name": "Action Figure - Aloy - Orizon Zero Down",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/Aloy.jpg"
+      },
+      {
+        "name": "Action Figure - Zoro - One Piece",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/ZORO.png"
+      },
+      {
+        "name": "Action Figure - Gohan- Dragon Ball",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/Gohan-Dragon-Ball.jpg"
+      },
+      {
+        "name": "Action Figure - Gyarados - Pokemon",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/Gyarados.jpg"
+      },
+      {
+        "name": "Action Figure - Inosuke - Demon Slayer",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/inosuke.jpg"
+      },
+      {
+        "name": "Action Figure - Judy - Cyberpunk",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/Judy-cyberpunk.jpg"
+      },
+      {
+        "name": "Action Figure - Luffy - One Piece",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/luffy.jpg"
+      },
+      {
+        "name": "Action Figure - Panam - Cyberpunk",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/panam-cyberpunk.jpg"
+      },
+      {
+        "name": "Action Figure - Raiden - Mortal Kombat",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/Raiden-Mortal-Kombat.jpg"
+      },
+      {
+        "name": "Action Figure - Tanjiro - Demon Slayer",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/tanjiro.jpg"
+      },
+      {
+        "name": "Action Figure - Joel - The Last of Us",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/thelastofus.jpg"
+      },
+      {
+        "name": "Action Figure - V - Cyberpunk",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/V-cyberpunk.jpg"
+      },
+      {
+        "name": "Action Figure - Johnny - Cyberpunk",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/JHONWIKI.png"
+      },
+      {
+        "name": "Action Figure - Oscar de Astora - Dark Souls",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/ASTORA.png"
+      },
+      {
+        "name": "Action Figure - Artorias - Dark Souls",
+        "price": "R$ 99,99",
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Actionsfigures/aRTORIAS.png"
+      }
+    ],
+    "mangas": [
+      {
+        "nome": "Shingeki no Kyojin",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/ank.png"
+      },
+      {
+        "nome": "Berserk",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/berserk.png"
+      },
+      {
+        "nome": "Chainsaw Man",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/chaisawman.png"
+      },
+      {
+        "nome": "Death Note",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/deathnote.png"
+      },
+      {
+        "nome": "Fullmetal Alchemist",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/fullmetal.png"
+      },
+      {
+        "nome": "Monster",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/monster.png"
+      },
+      {
+        "nome": "Naruto",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/naruto.png"
+      },
+      {
+        "nome": "One Piece",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/onepierce.png"
+      },
+      {
+        "nome": "Vagabond",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/vagabond.png"
+      },
+      {
+        "nome": "Vinland Saga",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/vinlandsaga.png"
+      },
+      {
+        "nome": "Yu Yu Hakusho",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/yuyuhachusho.png"
+      },
+      {
+        "nome": "Fairy Tail",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/firetail.png"
+      },
+      {
+        "nome": "Dragon Ball",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/dragonball.png"
+      },
+      {
+        "nome": "Tokyo Ghoul",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/tokyoghol.png"
+      },
+      {
+        "nome": "Kimetsu no Yaiba",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/kimetsu.png"
+      },
+      {
+        "nome": "Solo Leveling",
+        "preco": "R$ 99,99",
+        "parcelamento": "12x de R$ 8,33",
+        "imagem": "../assets/Produtos/mangas/sololeveling.png"
+      }
+    ],
+    "cosplay": [
+      {
+        "name": "Cosplay - Akatsuki",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Akatsuki.jpg"
+      },
+      {
+        "name": "Cosplay - Deadpool",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Deadpool.webp"
+      },
+      {
+        "name": "Cosplay - Doutor Estranho",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Doutor-Estranho.webp"
+      },
+      {
+        "name": "Cosplay - Edward Kenway",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Edward-Kenway.webp"
+      },
+      {
+        "name": "Cosplay - Ezio Auditore",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Ezio.jpg"
+      },
+      {
+        "name": "Cosplay - Kakashi Hatake",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Kakashi.webp"
+      },
+      {
+        "name": "Cosplay - Naruto Uzumaki",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/naruto.webp"
+      },
+      {
+        "name": "Cosplay - Nezuko Kamado",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Nexuko-Kimetsu.webp"
+      },
+      {
+        "name": "Cosplay - Round Six",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/round-six.webp"
+      },
+      {
+        "name": "Cosplay - Superman",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/super-man.webp"
+      },
+      {
+        "name": "Cosplay - Viper (Valorant)",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/viper-valorant.jpg"
+      },
+      {
+        "name": "Cosplay - Wolverine",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Wolverine.webp"
+      },
+      {
+        "name": "Cosplay - Yor Forger",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/Yor-forger.webp"
+      },
+      {
+        "name": "Cosplay - Yumeko Jabami",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/yumeko.webp"
+      },
+      {
+        "name": "Cosplay - Homem-Aranha",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/miranha.png"
+      },
+      {
+        "name": "Cosplay - Suguru Geto",
+        "price": 99.99,
+        "installments": "12x de R$ 8,33",
+        "image": "../assets/Produtos/Cosplay/sugurogeto.png"
+      }
+    ]
+  }
+}
